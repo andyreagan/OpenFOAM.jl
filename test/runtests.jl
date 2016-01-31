@@ -1,6 +1,4 @@
-include("../foamLia.jl")
-
-using foamLia
+using OpenFOAM
 
 # okay, test implementation
 import Base.run

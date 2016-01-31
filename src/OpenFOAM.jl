@@ -1,4 +1,7 @@
-module foamLia
+module OpenFOAM
+# that is the name of the module, but it's also only different from the
+# new type that it defines by case (the type is OpenFoam)
+
 export Lorenz63,OpenFoam,initCase,run,runQ,readMesh,findTimes,readVar,readVarSpec,stringG,rewriteVar,reshapeMesh,writeDict,writeVolScalarField,writeVolVectorField,writeSurfaceScalarField
 # println("foamLia: basic openfoam manipulation")
 
