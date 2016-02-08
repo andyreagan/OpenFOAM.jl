@@ -1,6 +1,6 @@
 # OpenFOAM.jl
 
-![build status][https://travis-ci.org/andyreagan/OpenFOAM.jl.svg?branch=master]
+![build status](https://travis-ci.org/andyreagan/OpenFOAM.jl.svg?branch=master "build status")
 
 Useful links for developing the package:
 
