@@ -1,5 +1,6 @@
 # OpenFOAM.jl
 
+![build status][https://travis-ci.org/andyreagan/OpenFOAM.jl.svg?branch=master]
 
 Useful links for developing the package:
 
